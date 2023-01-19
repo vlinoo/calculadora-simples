@@ -19,7 +19,7 @@ body{
     align-items: center;
     background-color: rgba(255, 255, 255, 0.816);
     width: 300px;
-    height: 350px;
+    height: 380px;
     border-radius: 1rem;
     padding: 1.5rem 1.5rem;
 
@@ -71,4 +71,5 @@ input:focus {
 
 h1{
     align-self: center;
+    margin-left: 1.5rem;
 }
